@@ -1,0 +1,5 @@
+IP: 158.160.28.176;
+name_taski: https://testdomentasks.ydns.eu;
+name_kittygram: https://sprinttest1.zapto.org;
+login: jojo_mad;
+password: hello_world;
